@@ -1,0 +1,17 @@
+DEV & TEMPLATE TOOLS
+https://getbootstrap.com/
+https://materializecss.com/
+https://coolors.co/
+https://fontawesome.com
+https://www.w3schools.com
+
+
+DEVELOPING FOR WEB PERFORMANCE
+https://www.willpeavy.com/minifier/
+https://cssminifier.com/
+
+OPTIMIZING SEO
+https://sitechecker.pro/
+https://www.favicon-generator.org/
+https://smallseotools.com/robots-txt-generator/
+https://www.xml-sitemaps.com/
